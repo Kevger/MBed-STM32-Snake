@@ -36,6 +36,6 @@ Mit der 'send' Funktion lässt sich nicht der gesamte Bildinhalt auf einmal erne
 
 ## Ergebnis
 Der Prototyp wurde nach dem Schaltplan auf einem Steckbrett umgesetzt und in Betrieb genommen. 
-Alle Funktionen die man vom klassischen Snake kennt, Bewegung, Essen und Sterben, funktionieren einwandfrei. Nicht so optimal, ist die Umsetzung, mit dem ganzen sichtbaren Kabelsalat ;) 
+Alle Funktionen die man vom klassischen Snake kennt, Bewegung, Essen und Sterben, funktionieren einwandfrei. Nicht so optimal ist die Umsetzung, mit dem ganzen sichtbaren Kabelsalat ;) 
 
 ![Alt text](Dokumentation/FertigerAufbau.jpg "Der Kabelsalat")
